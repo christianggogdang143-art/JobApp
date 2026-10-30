@@ -1,0 +1,23 @@
+﻿# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# PyInstaller build output
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
